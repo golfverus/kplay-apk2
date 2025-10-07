@@ -1,5 +1,6 @@
 pluginManagement {
     repositories {
+        // ต้องมี google() ตรงนี้เพื่อหา Android Gradle Plugin
         google()
         mavenCentral()
         gradlePluginPortal()
